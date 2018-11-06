@@ -1,0 +1,81 @@
+---
+booktitle: 'Proceedings of the Second International Workshop on Learning with Imbalanced
+  Domains: Theory and Applications'
+shortname: LIDTA
+sections:
+- name: Preface
+  title: Preface
+- name: Papers
+  title: Papers
+year: '2018'
+volume: 94
+start: 2018-09-10
+end: 2018-09-10
+published: 2018-11-05
+url: http://proceedings.mlr.press
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: LIDTA2018
+month: 0
+cycles: false
+bibtex_editor: Torgo, Lu\'{i}s and Matwin, Stan and Japkowicz, Nathalie and Krawczyk,
+  Bartosz and Moniz, Nuno and Branco, Paula
+editor:
+- given: Luís
+  family: Torgo
+- given: Stan
+  family: Matwin
+- given: Nathalie
+  family: Japkowicz
+- given: Bartosz
+  family: Krawczyk
+- given: Nuno
+  family: Moniz
+- given: Paula
+  family: Branco
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Second International Workshop on Learning with Imbalanced Domains: Theory and Applications
+    Held in ECML-PKDD, Dublin, Ireland on 10 September 2018
+
+  Published as Volume 94 by the Proceedings of Machine Learning Research on 05 November 2018.
+
+  Volume Edited by:
+    Luís Torgo
+    Stan Matwin
+    Nathalie Japkowicz
+    Bartosz Krawczyk
+    Nuno Moniz
+    Paula Branco
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 10 Sep
+baseurl: "/v94"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v94
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: 'Second International Workshop on Learning with Imbalanced Domains: Theory
+    and Applications'
+  url: 
+  location: ECML-PKDD, Dublin, Ireland
+  dates:
+  - 2018-09-10
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from /Users/neil/mlresearch/v94/LIDTA18.bib
